@@ -71,4 +71,4 @@
 <p style="text-align: justify;"><span style="font-weight: 400;">https://www.lovoirbeauty.com/lovoir-day-spa-christchurch/</span></p>
 <h2 style="text-align: center;"><span style="color: #0000ff;"><strong>Our Location On Map</strong></span></h2>
 <p><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d92602.71341163557!2d172.59198941362885!3d-43.505781832286694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d31f544c0eaf937%3A0x409e16fcc151e8fd!2sLovoir%20Beauty%20Salon%20%26%20Day%20Spa%20Christchurch%2C%20Avonhead!5e0!3m2!1sen!2snz!4v1648257444473!5m2!1sen!2snz" width="600" height="450" allowfullscreen="allowfullscreen"></iframe></p>
-
+<iframe src="https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://infoblogger.github.io/Lovoir-Beauty-Salon-Christchurch/?Day Spa Christchurch"style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
